@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moments</string>
+    <string name="add_moment">Add moment</string>
+    <string name="refresh_moments">Refresh moments</string>
+    <string name="title_activity_add_moment">Add moment</string>
+    <string name="your_name">Your name</string>
+    <string name="moment_text">Moment text</string>
+    <string name="text_is_empty">Text is empty</string>
+    <string name="moment_has_been_added">Moment has been added</string>
+    <string name="adding_moment">Adding moment...</string>
+    <string name="error_adding_moment">Error adding moment</string>    
+    <string name="connection_error">Connection error</string>
+    <string name="connection_error_message">Unable to connect to the server. Please check your internet connection.</string>
+    <string name="back">Back</string>
+    <string name="open_settings">Open settings</string>
+
+</resources>

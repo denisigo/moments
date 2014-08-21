@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/refresh_moments"
+        android:title="@string/refresh_moments"
+        android:icon="@drawable/ic_action_refresh"
+        android:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/add_moment"
+        android:title="@string/add_moment"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="always"/>
+
+</menu>
